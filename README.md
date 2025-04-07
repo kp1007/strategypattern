@@ -67,7 +67,7 @@ High-level service that:
 
 ```csharp
 // Create a patient with preferences
-var patient = new Patient
+var PatientNotification = new PatientNotification
 {
     Name = "Rahul Sharma",
     PhoneNumber = "9876543210",
